@@ -7,3 +7,5 @@
 
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=joyce-soares&show_icons=true&theme=radical)
 
+![Snake animation](https://github.com/joyce-soares/joyce-soares/blob/output/github-contribution-grid-snake.svg)
+
