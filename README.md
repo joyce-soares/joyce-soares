@@ -5,5 +5,5 @@
 - 👯 Ainda não tenho experiencias profissionais na área, mas deixo nos repositórios alguns códigos de estudo que faço.
 - ✍️ Linkedin: https://www.linkedin.com/in/joyce-soares-correa/
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=joyce-soares_icons=true&theme=radical)
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=joyce-soares&show_icons=true&theme=radical)
 
