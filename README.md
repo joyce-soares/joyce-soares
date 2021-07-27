@@ -5,7 +5,6 @@
 - 👯 Ainda não tenho experiencias profissionais na área, mas deixo nos repositórios alguns códigos de estudo que faço.
 
  <div>
-  <a href="https://github.com/joyce-soares">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joyce-soares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyce-soares&layout=compact&langs_count=7&theme=dracula"/>
  </div>
