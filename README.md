@@ -5,7 +5,7 @@
 - 👯 Ainda não tenho experiencias profissionais na área, mas deixo nos repositórios alguns códigos de estudo que faço.
 
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=joyce-soares&show_icons=true&theme=radical)
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyce-soares&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyce-soares&layout=compact&langs_count=7&theme=dracula"/>
  
  <div>
 <br>
