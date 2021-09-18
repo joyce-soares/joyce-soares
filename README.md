@@ -1,7 +1,7 @@
 ### Olá, sou a Joyce Soares 👋
 
 - 🔭 Sou estudante de tecnologia na Universidade Paulista. Estou no segundo semestre de análise e desenvolvimento de sistemas.
-- 🌱 Atualmente estou aprendendo programação orientada a objetos em java.
+- 🌱 Atualmente estou aprendendo desenvolvimento Mobile Android.
 - 👯 Ainda não tenho experiencias profissionais na área, mas deixo nos repositórios alguns códigos de estudo que faço.
 
  <div>
