@@ -14,7 +14,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://symbols.getvecta.com/stencil_86/44_kotlin.5abd6aa223.png">
+  <img align="center" height="40" width="50" src="https://lh3.googleusercontent.com/td5EkSlBAs7fL0seC8Bh3Vk_cUZsbtnb-ehzYNigfe4bVzNmrawg_PrG1vdWQZ4wYWo">
   </div>
  
  ##
