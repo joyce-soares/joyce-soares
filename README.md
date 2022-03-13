@@ -1,7 +1,7 @@
 ### Olá, sou a Joyce Soares 👋
 
 - 🔭 Sou estudante de tecnologia na Universidade Paulista. Estou no terceiro semestre de análise e desenvolvimento de sistemas.
-- 🌱 Atualmente estou aprendendo desenvolvimento Mobile Androide e faço estágio na área.
+- 🌱 Atualmente estou aprendendo desenvolvimento mobile android e faço estágio na área.
  <div>
   <a href="https://github.com/joyce-soares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyce-soares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
